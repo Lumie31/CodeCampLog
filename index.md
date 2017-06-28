@@ -2,3 +2,4 @@
 
 * Learnt about the git workflow 
 * Continued styling my portfolio page
+* Continued touch-typing practice
