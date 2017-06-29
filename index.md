@@ -15,3 +15,8 @@
   Some other command line methods learnt are: cd, ls, touch, mkdir
 * Continued styling my portfolio page to improve its awesomeness which will always be a work-in-progress
 * Continued touch-typing practice 
+
+### Thursday June 29th, 2017
+
+* Completed 'intro-to-web-dev' videos
+* Improved my portfolio page by adding contents to 'about' and 'footer' section
