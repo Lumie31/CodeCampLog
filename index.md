@@ -25,4 +25,4 @@
 
 * Learnt about Bootstrap and its grid system and some other CSS frameworks which are Semantic UI, Bluma, Material design etc.
 * Was introduced to flexbox and its properties
-* 
+* Exposed to the business aspect of software development i.e to solve a problem people face and make money out of it
