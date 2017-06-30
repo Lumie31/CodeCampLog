@@ -20,3 +20,9 @@
 
 * Completed 'intro-to-web-dev' videos
 * Improved my portfolio page by adding contents to 'about' and 'footer' section
+
+### Friday June 30th, 2017
+
+* Learnt about Bootstrap and its grid system and some other CSS frameworks which are Semantic UI, Bluma, Material design etc.
+* Was introduced to flexbox and its properties
+* 
