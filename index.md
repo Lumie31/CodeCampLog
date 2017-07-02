@@ -26,3 +26,8 @@
 * Learnt about Bootstrap and its grid system and some other CSS frameworks which are Semantic UI, Bluma, Material design etc.
 * Was introduced to flexbox and its properties
 * Exposed to the business aspect of software development i.e to solve a problem people face and make money out of it
+
+### Saturday July 1st, 2017
+
+* Started with the new videos given and learnt about functions, the difference between function expression and function declaration, the return      keyword and scope which was all in the first folder
+* Learnt about what made startups succeed by watching a Ted talk by Bill Gross and among the 5 factors he gave, The right 'timing' played a major    role in startup success rate 
