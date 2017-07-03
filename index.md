@@ -31,9 +31,10 @@
 
 * Started with the new videos given and learnt about functions, the difference between function expression and function declaration, the return      keyword and scope
 * Learnt about what made startups succeed by watching a Ted talk by Bill Gross and among the 5 factors he gave, The right 'timing' played a major    role in startup success rate 
-* Read freecodecamp's medium post
+* Read freecodecamp's medium post on 
 
 ### Sunday July 2nd, 2017
 
-* Learnt about Higher order functions and Javascript Arrays and Array methods
-* 
+* Learnt about Higher order functions which means passing a function to a function
+* Learnt about Javascript Arrays and the Array 'forEach' method
+* Saw the difference between a for-loop and a forEach method
