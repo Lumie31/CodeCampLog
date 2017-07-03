@@ -42,7 +42,7 @@
 ### Monday July 3rd, 2017
 
 * Collaboratively built a form with the team that takes user input (name and birthday) and outputs data to the html page 
-* Learnt about using event handling to overwrite a form's default behaviour
+* Learnt about using event handling to overwrite a form's default behaviour with the 'preventDefault' function
 * Learnt about asynchronous functions with setTimeout as example
 * Learnt about reading documentation and used the jQuery documentation as a case study 
 * Explored the jQuery documentation and used some methods like \*.html()\*, \*.val()\*, \*.submit()\*, \*$\* to manipulate our html document
