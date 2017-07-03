@@ -38,3 +38,11 @@
 * Learnt about Higher order functions which means passing a function to a function
 * Learnt about Javascript Arrays and the Array 'forEach' method
 * Saw the difference between a for-loop and a forEach method
+
+### Monday July 3rd, 2017
+
+* Collaboratively built a form that display a user's name and birthday with the team
+* Learnt about asynchronous functions with setTimeout as example
+* Learnt about reading documentation and jQuery documentation was a case study 
+* Read the jQuery docs and played with some methods like '.html()', '.val()', '.submit()'
+* Saw the difference between javascript and jQuery in terms of syntax and use-case
