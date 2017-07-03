@@ -45,5 +45,5 @@
 * Learnt about using event handling to overwrite a form's default behaviour with the 'preventDefault' function
 * Learnt about asynchronous functions with setTimeout as example
 * Learnt about reading documentation and used the jQuery documentation as a case study 
-* Explored the jQuery documentation and used some methods like \*.html()\*, \*.val()\*, \*.submit()\*, \*$\* to manipulate our html document
+* Explored the jQuery documentation and used some methods like \*.html()\*, \*.val()\*, \*.submit()\*, \*$\* to manipulate the DOM
 * Observed the difference between javascript and jQuery in terms of syntax and use-case
