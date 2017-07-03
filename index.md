@@ -44,5 +44,5 @@
 * Collaboratively built a form that display a user's name and birthday with the team
 * Learnt about asynchronous functions with setTimeout as example
 * Learnt about reading documentation and jQuery documentation was a case study 
-* Read the jQuery docs and played with some methods like '.html()', '.val()', '.submit()'
+* Read the jQuery docs and used some methods like '.html()', '.val()', '.submit()', '$' to manipulate our html document
 * Saw the difference between javascript and jQuery in terms of syntax and use-case
