@@ -46,4 +46,4 @@
 * Learnt about asynchronous functions with setTimeout as example
 * Learnt about reading documentation and used the jQuery documentation as a case study 
 * Explored the jQuery documentation and used some methods like \*.html()\*, \*.val()\*, \*.submit()\*, \*$\* to manipulate the DOM
-* Observed the difference between javascript and jQuery in terms of syntax and use-case
+* Observed the difference between javascript and jQuery in terms of syntax and use-case in DOM manipulation
