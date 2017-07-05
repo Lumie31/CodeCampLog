@@ -47,3 +47,8 @@
 * Learnt about reading documentation and used the jQuery documentation as a case study 
 * Explored the jQuery documentation and used some methods like \*.html()\*, \*.val()\*, \*.submit()\*, \*$\* to manipulate the DOM
 * Observed the difference between javascript and jQuery in terms of syntax and use-case in DOM manipulation
+
+### Tuesday July 4th, 2017
+
+* Worked on freeCodeCamp's Basic javascript section and learnt about functions, arrays and objects
+* Collaboratively built a functional form with the team that takes a datetime input and outputs data to html 
