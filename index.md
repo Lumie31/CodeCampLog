@@ -52,3 +52,8 @@
 
 * Worked on freeCodeCamp's Basic javascript section and learnt about functions, arrays and objects
 * Collaboratively built a functional form with the team that takes a datetime input and outputs data to html 
+
+### Wednesday July 5th, 2017
+
+* Had an idea sharing session with the team
+* Worked on javascipt classwork given on repl.it
