@@ -57,3 +57,10 @@
 
 * Had an idea-sharing session with the team
 * Worked on javascipt classwork given on repl.it
+
+### Thursday July 6th, 2017
+
+* Continued repl.it classwork
+* Classroom session was on writing javascript functions
+* Finally got to understand the concept of scope in javascript
+* Had an idea-sharing session with the team and a couple of investors(lol)
