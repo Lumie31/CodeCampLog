@@ -56,11 +56,25 @@
 ### Wednesday July 5th, 2017
 
 * Had an idea-sharing session with the team
-* Worked on javascipt classwork given on repl.it
+* Worked on javascipt exercises given on repl.it
 
 ### Thursday July 6th, 2017
 
-* Continued repl.it classwork
+* Continued repl.it exercises
 * Classroom session was on writing javascript functions
 * Finally got to understand the concept of scope in javascript
 * Had an idea-sharing session with the team and a couple of investors(lol)
+
+### Friday July 7th, 2017
+
+* Continued repl.it exercises
+* Objects in javascript became clearer to me
+
+### Saturday July 8th, 2017
+
+* Worked on repl.it exercises
+* Continuous sharpening of problem-solving skills
+
+## Sunday July 9th, 2017
+
+* `Repl.it` all the way
