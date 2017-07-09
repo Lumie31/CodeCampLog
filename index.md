@@ -75,6 +75,6 @@
 * Worked on repl.it exercises
 * Continuous sharpening of problem-solving skills
 
-## Sunday July 9th, 2017
+### Sunday July 9th, 2017
 
 * `Repl.it` all the way
