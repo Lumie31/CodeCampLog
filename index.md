@@ -30,7 +30,7 @@
 ### Saturday July 1st, 2017
 
 * Started with the new videos given and learnt about functions, the difference between function expression and function declaration, the return      keyword and scope
-* Learnt about what makes startups succeed by watching a Ted talk by Bill Gross and among the 5 factors he gave, The right 'timing' played a major    role in startup success rate 
+* Learnt about what makes startups succeed by watching a Ted talk by Bill Gross and among the 5 factors he gave, The right 'timing' played a major role in startup success rate 
 * Read freecodecamp's medium post on not been scared of reading documentations
 
 ### Sunday July 2nd, 2017
@@ -45,7 +45,7 @@
 * Learnt about using event handling to overwrite a form's default behaviour with the 'preventDefault' function
 * Learnt about asynchronous functions with setTimeout as example
 * Learnt about reading documentation and used the jQuery documentation as a case study 
-* Explored the jQuery documentation and used some methods like \*.html()\*, \*.val()\*, \*.submit()\*, \*$\* to manipulate the DOM
+* Explored the jQuery documentation and used some methods like `.html()`, `.val()`, `.submit()`, `$` to manipulate the DOM
 * Observed the difference between javascript and jQuery in terms of syntax and use-case in DOM manipulation
 
 ### Tuesday July 4th, 2017
@@ -74,7 +74,17 @@
 
 * Worked on repl.it exercises
 * Continuous sharpening of problem-solving skills
+* Used the `hasOwnProperty` function to get and compare object properties
+
 
 ### Sunday July 9th, 2017
 
 * `Repl.it` all the way
+* Got the hang of the `for...in` loop and the `if...in` statement
+
+### Monday July 10th, 2017
+
+* Wrote cleaner code using higher-order functions like `filter`, `reduce`, `forEach`
+* Saw the use of anonymous functions, which means functions created on the fly to be passed into higher-order functions
+* Solved repl.it exercises together in class collaboratively 
+* New concepts heard of: `for...of` loop, `toString` method, `new RegExp`, `.match`  
