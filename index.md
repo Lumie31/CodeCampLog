@@ -87,4 +87,4 @@
 * Wrote cleaner code using higher-order functions like `filter`, `reduce`, `forEach`
 * Saw the use of anonymous functions, which means functions created on the fly to be passed into higher-order functions
 * Solved repl.it exercises together in class collaboratively 
-* New concepts heard of: `for...of` loop, `toString` method, `new RegExp`, `.match`  
+* New concepts heard of: `for...of` loop, `toString` method, `new RegExp`, `.match`, `Object.keys`  
