@@ -12,7 +12,7 @@
 
       'git push' ==> Pushes your project to your github repository
 
-  Some other command line methods learnt are: cd, ls, touch, mkdir
+  Some other command line methods learnt are: `cd`, `ls`, `touch`, `mkdir`
 * Continued styling my portfolio page to improve its awesomeness which will always be a work-in-progress
 * Continued touch-typing practice 
 
@@ -23,26 +23,26 @@
 
 ### Friday June 30th, 2017
 
-* Learnt about Bootstrap and its grid system and some other CSS frameworks which are Semantic UI, Bluma, Material design etc.
+* Learnt about Bootstrap and its grid system and some other CSS frameworks which are `Semantic UI`, `Bluma`, `Material design` etc.
 * Was introduced to flexbox and its properties
 * Exposed to the business aspect of software development i.e to solve a problem people face and make money out of it
 
 ### Saturday July 1st, 2017
 
-* Started with the new videos given and learnt about functions, the difference between function expression and function declaration, the return      keyword and scope
+* Started with the new videos given and learnt about functions, the difference between function expression and function declaration, the return keyword and scope
 * Learnt about what makes startups succeed by watching a Ted talk by Bill Gross and among the 5 factors he gave, The right 'timing' played a major role in startup success rate 
 * Read freecodecamp's medium post on not been scared of reading documentations
 
 ### Sunday July 2nd, 2017
 
 * Learnt about Higher order functions which means passing a function to a function
-* Learnt about Javascript Arrays and the Array 'forEach' method
-* Saw the difference between a for-loop and a forEach method
+* Learnt about Javascript Arrays and the Array `forEach` method
+* Saw the difference between a `for-loop` and a `forEach` method
 
 ### Monday July 3rd, 2017
 
-* Collaboratively built a form with the team that takes user input (name and birthday) and outputs data to the html page 
-* Learnt about using event handling to overwrite a form's default behaviour with the 'preventDefault' function
+* Collaboratively built a form with the team that takes user input `(name and birthday)` and outputs data to the html page 
+* Learnt about using event handling to overwrite a form's default behaviour with the `preventDefault` function
 * Learnt about asynchronous functions with setTimeout as example
 * Learnt about reading documentation and used the jQuery documentation as a case study 
 * Explored the jQuery documentation and used some methods like `.html()`, `.val()`, `.submit()`, `$` to manipulate the DOM
@@ -88,3 +88,11 @@
 * Saw the use of anonymous functions, which means functions created on the fly to be passed into higher-order functions
 * Solved repl.it exercises together in class collaboratively 
 * New concepts heard of: `for...of` loop, `toString` method, `new RegExp`, `.match`, `Object.keys`  
+
+### Tuesday July 11th, 2017
+
+* Got a clearer picture of what `client` and `server` means
+* Learnt about the `request` and `response` cycle
+* Introduction to `Node.js` and its popular framework `express`
+* Learnt about `npm` and the pros of `open source`
+* Learnt about the `require` keyword and how you can require `local files` and files from `npm`
