@@ -96,3 +96,9 @@
 * Introduction to `Node.js` and its popular framework `express`
 * Learnt about `npm` and the pros of `open source`
 * Learnt about the `require` keyword and how you can require `local files` and files from `npm`
+
+### Wednesday July 12th, 2017
+
+* Built a `todo-app` with the team
+* Learnt how to use `clearfix` to overwrite unused space in bootstrap grid system
+* Used jQuery to add functionality to `todo-app`
