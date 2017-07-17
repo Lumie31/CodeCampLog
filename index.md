@@ -133,4 +133,4 @@
 * Some other methods used were `.use`, `.send`, `.listen`, `.sendFile`
 * Learnt about `routes` and `route-handlers` 
 * Introduction to Recursion
-* Learnt about `middleware function` as a way of controlling request and response
+* Learnt about `middleware function` as a way of controlling the request and response object
