@@ -101,4 +101,27 @@
 
 * Built a `todo-app` with the team
 * Learnt how to use `clearfix` to overwrite unused space in bootstrap grid system
+* Completed the UI of our `todo-app`
 * Used jQuery to add functionality to `todo-app`
+
+### Thursday July 13th, 2017
+
+* Added more functionality to our `todo-app`
+* Learnt about the `.append()`, `.val()`, `.submit()` methods in jQuery
+* Saw the application of `filter` and `map` in building real project
+
+### Friday July 14th, 2017
+
+* Learnt about `State Management` in software development
+* Learnt some new jQuery methods like `.hover()`, `.empty()`, `.click()`, `.parent()`, `.attr()`, `.toggle()`
+* 
+
+### Saturday July 15th, 2017
+
+* Re-built the `Todo-app` with a part of the team which gave me a clearer understanding of the concepts involved
+* Continued my `Repl.it` exercises
+
+### Sunday July 16th, 2017
+
+* Solved some more `Repl.it` exercises
+* Went over the `todo-app` code again
