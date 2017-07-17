@@ -125,3 +125,12 @@
 
 * Solved some more `Repl.it` exercises
 * Went over the `todo-app` code again
+
+### Monday July 17th, 2017
+
+* Learnt how to write web servers with Node.js and express
+* Learnt about the `GET` and `POST` http methods 
+* Some other methods used were `.use`, `.send`, `.listen`, `.sendFile`
+* Learnt about `routes` and `route-handlers` 
+* Introduction to Recursion
+* Learnt about `middleware function` as a way of controlling request and response
