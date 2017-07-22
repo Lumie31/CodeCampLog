@@ -153,6 +153,7 @@
 
 ### Friday July 21st, 2017
 
-* Started the process of learning how to use a database to store data
+* Started the process of learning how to use a database to store data 
   * Installed MongoDB
   * Read Mongodb documentation and saw some youtube videos on creating a database and using mongoDB
+* Revised the process of moving code to the server
