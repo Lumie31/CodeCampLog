@@ -133,4 +133,26 @@
 * Some other methods used were `.use`, `.send`, `.listen`, `.sendFile`
 * Learnt about `routes` and `route-handlers` 
 * Introduction to Recursion
-* Learnt about `middleware function` as a way of controlling the request and response object
+* Learnt about `middleware functions` and the way it can control/change the request and response object 
+
+### Tuesday July 18th, 2017
+
+* Learnt how to send requests `(get and post)` to the server and receive response on the client with the `jQuery.get()` and `jQuery.post()` methods
+* Saw the use of the `body-parser` module which abstracted the need to traverse the huge `request` object and get needed data
+
+
+### Wednesday July 19th, 2017
+
+* Learnt about Asynchronous javascript
+* Moved functionalities of our todo-app from the client to the server side to prevent data loss on page reload/refresh
+
+### Thursday July 20th, 2017
+
+* Further reading on Asynchronous javascript and saw some terms like `callback hell`, `promises`, `async await`
+* Moved the `filter section` of todo-app to the server to make all functionalities run from the server 
+
+### Friday July 21st, 2017
+
+* Started the process of learning how to use a database to store data
+  * Installed MongoDB
+  * Read Mongodb documentation and saw some youtube videos on creating a database and using mongoDB
