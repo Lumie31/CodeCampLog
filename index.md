@@ -157,3 +157,25 @@
   * Installed MongoDB
   * Read Mongodb documentation and saw some youtube videos on creating a database and using mongoDB
 * Revised the process of moving code to the server
+
+### Saturday July 22nd, 2017
+
+* Learnt that Mongodb is a NoSql database meaning doesn't have a fixed structure and also how Mongo generates a random unique id which can be used to target each object in the database
+* Some MongoDB methods:
+  * `.find()` - To search for something in the database/collection 
+  * `.update()` - To update a field in a database
+  * `.createUser()` - To create new user
+  * `use` - To create and switch to new database
+  * `.createCollection` - To create a collection, kind of like a table
+  * `.insert()` - To insert data into a collection
+  * `.pretty()` - Formats data and makes it look pretty
+  * `$set` - Update data without having to specify prexisting fields
+  * `$inc` - Increment a value/number
+  * `$unset` - To remove a field
+  * `upsert:true` - Also Adds a new field with unique id
+  * `$rename` - Renames a field
+  * `.remove()` - Removes document
+
+### Sunday July 23rd, 2017
+
+* 
