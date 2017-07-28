@@ -178,4 +178,28 @@
 
 ### Sunday July 23rd, 2017
 
+* Solved a few repl exercises
 * 
+
+### Monday July 24th, 2017
+
+* Started the UI for a new project (A reddit clone) named kodedland
+* Introduction to Bootstrap 4
+
+### Tuesday July 25th, 2017
+
+* Wrote serverside code for Kodedland with express.js
+* Learnt how to write `Embedded JavaScript` code which is a simple templating language that lets one generate HTML markup with plain javascript
+* EJS Syntax => `<% %>` For writing JS within HTML
+
+### Wednesday July 26th, 2017
+
+* Learnt about `Promises` which is an alternative to callback functions and `.then()` that runs when the promise is fulfilled and `.catch()` that runs when there's an error
+* Learnt about `Mongoose` which is a database/MongoDB for Node.js and its connection procedures
+  * Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment
+* Learnt about `Schema`s and how its used to define the structure of document and type of data been stored
+
+### Thursday July 27th, 2017
+
+* Revision of serverside-code workflow for kodedland
+*  
