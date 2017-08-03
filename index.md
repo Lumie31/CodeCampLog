@@ -251,4 +251,4 @@
 
 * Learnt about De-structuring of Arrays and Objects in ES6
 * Added `no-win` feature to tic-tac-toe react app
-* Learnt about `class` and what `extends` mean in ES6
+* Learnt about `classes` and what `extends` mean in ES6
