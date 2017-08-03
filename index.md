@@ -202,4 +202,53 @@
 ### Thursday July 27th, 2017
 
 * Revision of serverside-code workflow for kodedland
-*  
+* 
+
+### Friday July 28th, 2017
+
+* Added `delete`, `Update` and `search` functionality to kodedland
+* Learnt more about bootstrap 4 and the grid system
+
+### Saturday July 29th, 2017
+
+* Created Signup form for kodedland and handled validations for username and password 
+* Created UserSchema to handle/store individual user input/details on signup
+* Handled routes for login & signup 
+
+### Sunday July 30th, 2017
+
+* Set-up mongoDB locally and tried out its CRUD methods
+* MongoDB CRUD actions
+  * `Create` - db.createCollection(collection), db.collection.insert(document)
+  * `Read` - db.collection.find() returns collection, finding with a query returns the matched document; `.findById` 
+  * `Update` - db.collection.update(query,replaceWith,option); Other methods: `.where` , `.findByIdAndUpdate`
+  * `Delete` - db.collection.remove(query,option) * setting the justOne option to true deletes the first match otherwise all matched queries are deleted from the collection
+
+### Monday July 31st, 2017
+
+* Learnt how to write simple tests with `Mocha` 
+* Revised the Mongoose workflow
+* Learnt of other view engines for rendering JS namely: `Pug`, `handlebars`
+
+### Tuesday August 1st, 2017
+
+* Fixed issue with having to signup and still login in kodedland: For good User experience, after signup log user in
+* Get user input on signup and use formatted part to render loggedIn details
+
+### Wednesday August 2nd, 2017
+
+* Introduction to React/React-native --- `React` is for `web apps` while `React-native` is for `mobile apps`
+* Learnt about the `import` keyword which is similar to the `require` for requiring modules and files
+* Some key takeaways:
+  * Everything in react is either a class or a function
+  * A `Component` is a function that returns some amount of `JSX`
+  * `Props` is used to pass data from parent component to child component
+  * `JSX` tells react/react-native what to show on the screen
+  * New Words/Concepts: `Class`, `Constructor`, `super`, `extends`, `state`, `setState`
+* Walked through a tic-tac-toe tutorial using React
+
+### Thursday August 3rd, 2017
+
+* Learnt about De-structuring of Arrays and Objects in ES6
+* Added `no-win` feature to tic-tac-toe react app
+* Learnt about `class` and what `extends` mean in ES6
