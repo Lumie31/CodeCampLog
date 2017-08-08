@@ -252,3 +252,22 @@
 * Learnt about De-structuring of Arrays and Objects in ES6
 * Added `no-win` feature to tic-tac-toe react app
 * Learnt about `classes` and what `extends` mean in ES6
+
+### Friday August 4th, 2017
+
+* Signed up on CodeWars and worked on some algorithms
+* Further improved myself on ES6 Syntax use
+
+### Saturday August 5th, 2017
+
+* Worked on some freeCodeCamp exercises/algorithms and used some native functions like `sort`
+
+### Sunday August 6th, 2017
+
+* Solved exercises on repl.it
+* 
+
+### Monday August 7th, 2017
+
+* Learnt about the inner workings of some major javascript functions: `sort`, `map`, `reduce`, `filter` and wrote our version of those native functions
+* Saw the difference and similarity between `rest` and `spread` operators in ES6
