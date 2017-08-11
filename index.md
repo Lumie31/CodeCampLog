@@ -271,3 +271,23 @@
 
 * Learnt about the inner workings of some major javascript functions: `sort`, `map`, `reduce`, `filter` and wrote our version of those native functions
 * Saw the difference and similarity between `rest` and `spread` operators in ES6
+
+### Tuesday August 8th, 2017
+
+* Learnt how to pass default values to functions which is a feature of ES6
+* Introduction to Object Oriented Programming in javascript
+* Walked through OOP section in freeCodeCamp
+
+### Wednesday August 9th, 2017
+
+* 
+
+### Thursday August 10th, 2017
+
+* Worked on solving algorithms on repl.it and codewars
+* Cloned git repository for hashhub's react-native todo app to foster familiarization with the code base
+* 
+
+### Friday August 11th, 2017
+
+* 
